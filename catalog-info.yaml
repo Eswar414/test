@@ -4,4 +4,3 @@ metadata:
   name: backstage_vault
   annotations:
     vault.io/secrets-path: my-app/password
-    vault.io/secrets-engine: secrets
